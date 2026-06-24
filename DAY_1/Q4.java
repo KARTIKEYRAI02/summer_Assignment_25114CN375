@@ -1,4 +1,5 @@
-public class counting {public static void main(String[] args) {
+public class Q4{ 
+    public static void main(String[] args) {
 
     int count = 0, num = 0003452;
 
